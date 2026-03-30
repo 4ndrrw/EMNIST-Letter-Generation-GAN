@@ -68,13 +68,3 @@ Example outputs from the trained GAN:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=Visual%20Studio%20Code&logoColor=white)
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature-branch`).  
-3. Commit your changes (`git commit -am 'Add new feature'`).  
-4. Push to the branch (`git push origin feature-branch`).  
-5. Open a Pull Request.  
